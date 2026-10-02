@@ -5,7 +5,7 @@
 
 const APP = {
   apiUrl:
-    'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE',
+    'https://script.google.com/macros/s/AKfycbwOOinDNMHjZNDD1VL-Nkoj6bqsLh7vHcoWt9Udq9t3Jt0VVapQZGskNbHGM86b6OUn/exec',
 
   currency: '₹',
 
